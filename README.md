@@ -10,7 +10,6 @@ The dataset contains chest X-Ray images from patients with:
 -  normal incidents (no infections) 
 
 
-    
     chest_xray_dataset/
     ├── test
     │   ├── covid [30 samples]
@@ -36,12 +35,12 @@ The dataset combines two different publicly available datasets:
 
 #### Paper availabe [here](#changeme)
 
-    @article{cohen2020covid,
-      title={COVID-19 image data collection},
-      author={Joseph Paul Cohen and Paul Morrison and Lan Dao},
-      journal={arXiv 2003.11597},
-      url={https://github.com/ieee8023/covid-chestxray-dataset},
-      year={2020}
+    @article{,
+      title={},
+      author={},
+      journal={},
+      url={},
+      year={}
     }
 
 

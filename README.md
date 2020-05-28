@@ -45,6 +45,6 @@ The dataset combines two different publicly available datasets:
 	URL = {https://www.medrxiv.org/content/early/2020/05/24/2020.05.22.20110817},
 	eprint = {https://www.medrxiv.org/content/early/2020/05/24/2020.05.22.20110817.full.pdf},
 	journal = {medRxiv}
-}
+    }
 
 

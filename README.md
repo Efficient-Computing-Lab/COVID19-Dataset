@@ -34,6 +34,8 @@ The dataset combines two different publicly available datasets:
 ## Citation 
 
 #### Paper availabe [here](https://www.medrxiv.org/content/10.1101/2020.05.22.20110817v1)
+####                [ACM Digital Library](https://dl.acm.org/doi/10.1145/3411408.3411416)
+     
 
     @inproceedings{makris2020covid,
     title={COVID-19 detection from chest X-Ray images using Deep Learning and Convolutional Neural Networks},

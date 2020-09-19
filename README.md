@@ -35,12 +35,12 @@ The dataset combines two different publicly available datasets:
 
 #### Paper availabe [here](https://www.medrxiv.org/content/10.1101/2020.05.22.20110817v1)
 
-    @article{makris2020covid,
+    @inproceedings{makris2020covid,
     title={COVID-19 detection from chest X-Ray images using Deep Learning and Convolutional Neural Networks},
     author={Makris, Antonios and Kontopoulos, Ioannis and Tserpes, Konstantinos},
-    journal={medRxiv},
-    year={2020},
-    publisher={Cold Spring Harbor Laboratory Press}
+    booktitle={11th Hellenic Conference on Artificial Intelligence},
+    pages={60--66},
+    year={2020}
     }
 
 
